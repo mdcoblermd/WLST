@@ -1,4 +1,5 @@
-T1 corresponds to admissions models
-T2 corresponds to 48 hours models
-T3 corresponds to 96 hour models
-T4 corresponds to total hospital length of stay models
+These contain the final models for all 4 timepoints:
+Admission
+48 hours
+96 Hours
+Total LOS
