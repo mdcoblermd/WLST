@@ -1,4 +1,5 @@
-T1 corresponds to admissions models
-T2 corresponds to 48 hours models
-T3 corresponds to 96 hour models
-T4 corresponds to total hospital length of stay models
+This folder contains the final models for the FACILITY AGNOSTIC models at all 4 timepoints:
+Admission
+48 hours
+96 hours
+Total LOS
